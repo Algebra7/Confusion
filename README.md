@@ -20,7 +20,7 @@ This is a personal project, built in order to gain a practical experience in rea
 
 2- Navigate to the project directory 
  
-3- Run the following commands <!-- for linux and mac users -->
+3- Run the following commands  (for linux and mac users)
 
     $ npm install
     $ json-server --watch db.json -d 2000 -p 3001
