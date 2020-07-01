@@ -17,6 +17,7 @@ This is a personal project, built in order to gain a practical experience in rea
 ## Setup Project on Local PC
 
 1- Clone the repository into your local PC
+
 2- Navigate to the project directory  
 3- Run the following commands  <!-- for linux and mac users -->
 
