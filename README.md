@@ -14,16 +14,17 @@ This is a personal project, built in order to gain a practical experience in rea
 - React animations
 
 
-## Setup Project on Local PC
+## Setup Project on Local PC  (For linux and mac users)
 
 1- Clone the repository into your local PC
 
-2- Navigate to the project directory 
- 
-3- Run the following commands  (for linux and mac users)
+2- Navigate to the json_server directory and run
+
+    $ json-server --watch db.json -d 2000 -p 3001
+    
+3- Navigate to confusion directory and run  (in different terminal)
 
     $ npm install
-    $ json-server --watch db.json -d 2000 -p 3001
-    $ npm start       	<!-- in defferent terminal -->
+    $ npm start 
     
 
